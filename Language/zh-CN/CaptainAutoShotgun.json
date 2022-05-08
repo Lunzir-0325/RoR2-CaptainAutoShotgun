@@ -1,0 +1,8 @@
+{
+	"strings": 
+	{
+		"CAPTAINAUTOSHOTGUN_DEFAULT": "默认",
+		"CAPTAINAUTOSHOTGUN_DIRECTSHOT": "<style=cUserSetting>直接射击</style>",
+		"CAPTAINAUTOSHOTGUN_CHARGE": "<style=cUserSetting>蓄能射击</style>",
+	} 
+}

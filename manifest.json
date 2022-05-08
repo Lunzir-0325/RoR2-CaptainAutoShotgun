@@ -1,0 +1,11 @@
+{
+    "name": "CaptainAutoShotgun",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Lunzir-0325",
+    "description": "Help my friend make this.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.1903",
+        "RiskofThunder-HookGenPatcher-1.2.3",
+		"tristanmcpherson-R2API-4.3.5"
+    ]
+}
